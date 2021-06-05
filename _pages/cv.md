@@ -33,8 +33,11 @@ Competitive funding and awards
 Publications
 ======
 Crane, J.L., **Bijak, A.L.**, Maier, M.A., & Nord M.A. (*in review*). Development of ambient background threshold values for sediment quality parameters in U.S. lakes on a regional and statewide basis.  
+
 Walker, J.B., **Bijak, A.L.** & Blum, L. (*in review*). Genetic diversity and clonal structure of Spartina alterniflora in a Virginia marsh.  
+
 **Bijak, A.L.**, van Dijk, K., & Waycott, M. (2018). Population structure and gene flow of the tropical seagrass, Syringodium filiforme, in the Florida Keys and subtropical Atlantic region. PLoS ONE 13(9): e0203644.  
+
 **Bijak, A.L.**, van Dijk, K., & Waycott, M. (2014). Development of microsatellite markers for a tropical seagrass, Syringodium filiforme (Cymodoceaceae). Applications in Plant Sciences, 2(10), 1400082.  
   
 Presentations
@@ -45,20 +48,20 @@ Presentations
 
 Teaching
 ======
-**Teaching Assistant**, Dept. of Environmental Sciences, Univ. of Va  											 
-2013-2015 &emsp; Fundamentals of Ecology Laboratory (EVSC 3201)																			 	 				 	 
-2015 &emsp; Sustainable Seas (EVSC 4559) 																																				  	  	 	  		
-2015 &emsp; Marine Biology and Coral Reef Ecology in San Salvador (BIOL 3660/EVSC 3660)				 		  			
+**Teaching Assistant**, Dept. of Environmental Sciences, Univ. of Va  						 
+2013-2015 &emsp; Fundamentals of Ecology Laboratory (EVSC 3201)  
+2015 &emsp; Sustainable Seas (EVSC 4559)  
+2015 &emsp; Marine Biology and Coral Reef Ecology in San Salvador (BIOL 3660/EVSC 3660)  
 
 2014 **Cavalier Academic Support Team (CAST) Tutor**, Univ. of Va Athletics						 	  				  
 
 **Undergraduate students mentored**:
 2020-2021 &emsp; Ashleigh Jansen (Sante Fe College, Associate of Arts ’21) 	
 2020-2021	&emsp; Haiden Burrichter (Univ. of Florida, Environmental Science, ‘23)  
-2020-2021	&emsp; Lisa DeFillips (Univ. of Florida, Environmental Science ’21)  																		  		  
+2020-2021	&emsp; Lisa DeFillips (Univ. of Florida, Environmental Science ’21)   
 
 Service, outreach and leadership
 ======
 2021-present &emsp; Presenter, Scientist in Every Florida School  
 2021-present &emsp; CERF Student Representative, Joint Aquatic Sciences Meeting Student Activities Committee  
-2019-present $emsp; Member-at-Large, Natural Resources Diversity Initiative  
+2019-present &emsp; Member-at-Large, Natural Resources Diversity Initiative  
