@@ -54,7 +54,7 @@ Teaching
 2015 &emsp;&emsp;&emsp; &nbsp;&nbsp; Marine Biology and Coral Reef Ecology in San Salvador (BIOL 3660/EVSC 3660)  
 
 **Cavalier Academic Support Team (CAST) Tutor**, Univ. of Va Athletics  
-2014 &emsp;&emsp;&emsp; Resources and the Environment (EVSC 1080)  
+2014 &emsp;&emsp;&emsp; &nbsp;&nbsp; Resources and the Environment (EVSC 1080)  
 
 **Undergraduate students mentored**:  
 2020-2021 &emsp; Ashleigh Jansen (Sante Fe College, Associate of Arts ’21)  
