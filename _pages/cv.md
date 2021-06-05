@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-20-- &emsp; **PhD student, Soil and Water Sciences**, University of Florida (expected)  
+20-- &emsp; **PhD, Soil and Water Sciences**, University of Florida (expected)  
 2016 &emsp; **MS, Environmental Sciences**, Unviersity of Virginia  
 2012 &emsp; **BA, Biology**, University of Virginia  
 
 Research experience
 ======
-2019-present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Graduate Research Assistant**, Soil and Water Sci. Dept., Univ. of Fl     
-2016-2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ORISE Researcher**, US Environmental Protection Agency                      
-2013-2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Graduate Research/Teaching Assistant**, Dept. of Envi. Sci., Univ. of Va    
-2012-2013 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Laboratory Technician**, Dept. of Envi. Sci., Univ. of Va                   
+2019-present &emsp; **Graduate Research Assistant**, Soil and Water Sci. Dept., Univ. of Fl  
+2016-2019 &emsp; **ORISE Researcher**, US Environmental Protection Agency  
+2013-2015 &emsp; **Graduate Research/Teaching Assistant**, Dept. of Envi. Sci., Univ. of Va  
+2012-2013 &emsp; **Laboratory Technician**, Dept. of Envi. Sci., Univ. of Va    
   
 Competitive Funding and Awards
 ======
