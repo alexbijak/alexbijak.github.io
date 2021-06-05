@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-2024 (expected) $emsp; **PhD student, Soil and Water Sciences**, University of Florida
+2024 (expected) &emsp; **PhD student, Soil and Water Sciences**, University of Florida
 2016              **MS, Environmental Sciences**, Unviersity of Virginia
 2012              **BA, Biology**, University of Virginia
 
