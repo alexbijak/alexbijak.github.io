@@ -48,14 +48,14 @@ Presentations
 
 Teaching
 ======
-**Teaching Assistant**, Dept. of Environmental Sciences, Univ. of Va  						 
+**Teaching Assistant**, Dept. of Environmental Sciences, Univ. of Va  
 2013-2015 &emsp; Fundamentals of Ecology Laboratory (EVSC 3201)  
 2015 &emsp; Sustainable Seas (EVSC 4559)  
 2015 &emsp; Marine Biology and Coral Reef Ecology in San Salvador (BIOL 3660/EVSC 3660)  
 
-2014 **Cavalier Academic Support Team (CAST) Tutor**, Univ. of Va Athletics						 	  				  
+2014 **Cavalier Academic Support Team (CAST) Tutor**, Univ. of Va Athletics  
 
-**Undergraduate students mentored**:
+**Undergraduate students mentored**:  
 2020-2021 &emsp; Ashleigh Jansen (Sante Fe College, Associate of Arts ’21) 	
 2020-2021	&emsp; Haiden Burrichter (Univ. of Florida, Environmental Science, ‘23)  
 2020-2021	&emsp; Lisa DeFillips (Univ. of Florida, Environmental Science ’21)   
