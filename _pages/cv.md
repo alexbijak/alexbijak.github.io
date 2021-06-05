@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-2024 (expected) &emsp; **PhD student, Soil and Water Sciences**, University of Florida  
-2016            &emsp; **MS, Environmental Sciences**, Unviersity of Virginia  
-2012            &emsp; **BA, Biology**, University of Virginia  
+20-- &emsp; **PhD student, Soil and Water Sciences**, University of Florida (expected)  
+2016 &emsp; **MS, Environmental Sciences**, Unviersity of Virginia  
+2012 &emsp; **BA, Biology**, University of Virginia  
 
 Research experience
 ======
