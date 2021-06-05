@@ -32,13 +32,13 @@ Competitive funding and awards
 
 Publications
 ======
-Crane, J.L., **Bijak, A.L.**, Maier, M.A., & Nord M.A. (*in review*). Development of ambient background threshold values for sediment quality parameters in U.S. lakes on a regional and statewide basis.  
+Crane, J.L., **Bijak, A.L.**, Maier, M.A., & M.A. Nord. (*in review*). Development of ambient background threshold values for sediment quality parameters in U.S. lakes on a regional and statewide basis.  
 
-Walker, J.B., **Bijak, A.L.** & Blum, L. (*in review*). Genetic diversity and clonal structure of Spartina alterniflora in a Virginia marsh.  
+Walker, J.B., **Bijak, A.L.** & L.K. Blum. (*in review*). Genetic diversity and clonal structure of *Spartina alterniflora* in a Virginia marsh.  
 
-**Bijak, A.L.**, van Dijk, K., & Waycott, M. (2018). Population structure and gene flow of the tropical seagrass, Syringodium filiforme, in the Florida Keys and subtropical Atlantic region. PLoS ONE 13(9): e0203644.  
+**Bijak, A.L.**, van Dijk, K., & M. Waycott. (2018). Population structure and gene flow of the tropical seagrass, *Syringodium filiforme*, in the Florida Keys and subtropical Atlantic region. *PLoS ONE* 13(9): e0203644.  
 
-**Bijak, A.L.**, van Dijk, K., & Waycott, M. (2014). Development of microsatellite markers for a tropical seagrass, Syringodium filiforme (Cymodoceaceae). Applications in Plant Sciences, 2(10), 1400082.  
+**Bijak, A.L.**, van Dijk, K., & M. Waycott. (2014). Development of microsatellite markers for a tropical seagrass, *Syringodium filiforme* (Cymodoceaceae). *Applications in Plant Sciences*, 2(10), 1400082.  
   
 Presentations
 ======
