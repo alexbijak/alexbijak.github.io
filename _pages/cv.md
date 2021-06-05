@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-2019- &emsp;&emsp;&emsp; **Graduate Research Assistant**, Soil and Water Sci. Dept., Univ. of Fl  
+2019- &emsp;&emsp;&emsp; &nbsp; **Graduate Research Assistant**, Soil and Water Sci. Dept., Univ. of Fl  
 2016-2019 &emsp; **ORISE Researcher**, US Environmental Protection Agency  
 2013-2015 &emsp; **Graduate Research/Teaching Assistant**, Dept. of Envi. Sci., Univ. of Va  
 2012-2013 &emsp; **Laboratory Technician**, Dept. of Envi. Sci., Univ. of Va    
