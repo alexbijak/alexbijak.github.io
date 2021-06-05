@@ -17,18 +17,18 @@ Education
 
 Research experience
 ======
-2019-present &emsp;&emsp; **Graduate Research Assistant**, Soil and Water Sci. Dept., Univ. of Fl  
-2016-2019 &emsp;&emsp; **ORISE Researcher**, US Environmental Protection Agency  
-2013-2015 &emsp;&emsp; **Graduate Research/Teaching Assistant**, Dept. of Envi. Sci., Univ. of Va  
-2012-2013 &emsp;&emsp; **Laboratory Technician**, Dept. of Envi. Sci., Univ. of Va    
+2019-20-- &emsp; **Graduate Research Assistant**, Soil and Water Sci. Dept., Univ. of Fl  
+2016-2019 &emsp; **ORISE Researcher**, US Environmental Protection Agency  
+2013-2015 &emsp; **Graduate Research/Teaching Assistant**, Dept. of Envi. Sci., Univ. of Va  
+2012-2013 &emsp; **Laboratory Technician**, Dept. of Envi. Sci., Univ. of Va    
   
-Competitive Funding and Awards
+Competitive funding and awards
 ======
-2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wetland Biological Laboratory Biogeochemistry Graduate Fellowship
-2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Florida Sea Grant Program Development Award\*
-2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; North Florida Marine Science Symposium Best Student Poster (2nd Place)
-2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thomas Jefferson Conservation Award
-\* *primary author on grant awarded to Dr. Laura K. Reynolds*
+2021 &emsp; Wetland Biological Laboratory Biogeochemistry Graduate Fellowship  
+2021 &emsp; Florida Sea Grant Program Development Award\*  
+2020 &emsp; North Florida Marine Science Symposium Best Student Poster (2nd Place)  
+2015 &emsp; Thomas Jefferson Conservation Award  
+\* *primary author on grant awarded to Dr. Laura K. Reynolds*  
 
 Publications
 ======
