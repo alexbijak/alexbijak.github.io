@@ -42,9 +42,9 @@ Walker, J.B., **Bijak, A.L.** & L.K. Blum. (*in review*). Genetic diversity and 
   
 Presentations
 ======
-**Bijak, A.** and Reynolds, L.K. (2020). Genetic diversity of Halodule wrightii along the Nature Coast. North Florida Marine Science Symposium.  
-**Bijak, A.** and Reynolds, L.K. (2020). Genetic diversity of Halodule wrightii along the Nature Coast. Virginia Sea Grant Graduate Symposium.  
-**Bijak, A.**, van Dijk, K., and Waycott, M. (2015). Genetic diversity and connectivity in a tropical seagrass, Syringodium filiforme, in the Florida Keys. Coastal and Estuarine Research Federation 23rd Biennial Conference.  
+**Bijak, A.** and Reynolds, L.K. (2020). Genetic diversity of *Halodule wrightii* along the Nature Coast. North Florida Marine Science Symposium.  
+**Bijak, A.** and Reynolds, L.K. (2020). Genetic diversity of *Halodule wrightii* along the Nature Coast. Virginia Sea Grant Graduate Symposium.  
+**Bijak, A.**, van Dijk, K., and Waycott, M. (2015). Genetic diversity and connectivity in a tropical seagrass, *Syringodium filiforme*, in the Florida Keys. Coastal and Estuarine Research Federation 23rd Biennial Conference.  
 
 Teaching
 ======
