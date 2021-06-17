@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-#redirect_from:
-#  - /resume
-
-
 Education
 ======
 2019- &emsp; **PhD, Soil and Water Sciences**, University of Florida (expected)  
