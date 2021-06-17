@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /researcg/
+permalink: /research/
 author_profile: true
 ---
 
