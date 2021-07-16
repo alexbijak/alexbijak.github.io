@@ -26,7 +26,7 @@ Competitive funding and awards
 2021 &emsp; Florida Sea Grant Program Development Award\*  
 2020 &emsp; North Florida Marine Science Symposium Best Student Poster (2nd Place)  
 2015 &emsp; Thomas Jefferson Conservation Award  
-\* *primary author on grant awarded to Dr. Laura K. Reynolds*  
+\**primary author on grant awarded to Dr. Laura K. Reynolds*  
 
 Publications
 ======
