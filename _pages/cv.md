@@ -9,7 +9,7 @@ author_profile: true
 
 Education
 ======
-2024 &emsp; &nbsp; **PhD, Soil and Water Sciences**, University of Florida (expected)  
+2024 &emsp; &nbsp; **PhD, Soil and Water Sciences**, University of Florida (*expected*)  
 2016 &emsp; &nbsp; **MS, Environmental Sciences**, Unviersity of Virginia  
 2012 &emsp; &nbsp; **BA, Biology**, University of Virginia  
 
@@ -30,13 +30,14 @@ Competitive funding and awards
 
 Publications
 ======
-Crane, J.L., **Bijak, A.L.**, Maier, M.A., & M.A. Nord. (*in review*). Development of ambient background threshold values for sediment quality parameters in U.S. lakes on a regional and statewide basis.  
 
 Walker, J.B., **Bijak, A.L.** & L.K. Blum. (*in review*). Genetic diversity and clonal structure of *Spartina alterniflora* in a Virginia marsh.  
 
-**Bijak, A.L.**, van Dijk, K., & M. Waycott. (2018). Population structure and gene flow of the tropical seagrass, *Syringodium filiforme*, in the Florida Keys and subtropical Atlantic region. *PLoS ONE* 13(9): e0203644.  
+Crane, J.L., **Bijak, A.L.**, Maier, M.A., & M.A. Nord. (2021). Development of ambient background threshold values for sediment quality parameters in U.S. lakes on a regional and statewide basis. *Science of the Total Environment* 793: 148630. https://doi.org/10.1016/j.scitotenv.2021.148630  
 
-**Bijak, A.L.**, van Dijk, K., & M. Waycott. (2014). Development of microsatellite markers for a tropical seagrass, *Syringodium filiforme* (Cymodoceaceae). *Applications in Plant Sciences*, 2(10), 1400082.  
+**Bijak, A.L.**, van Dijk, K., & M. Waycott. (2018). Population structure and gene flow of the tropical seagrass, *Syringodium filiforme*, in the Florida Keys and subtropical Atlantic region. *PLoS ONE* 13(9): e0203644. https://doi.org/10.1371/journal.pone.0203644  
+
+**Bijak, A.L.**, van Dijk, K., & M. Waycott. (2014). Development of microsatellite markers for a tropical seagrass, *Syringodium filiforme* (Cymodoceaceae). *Applications in Plant Sciences*, 2(10): 1400082. https://doi.org/10.3732/apps.1400082  
   
 Presentations
 ======
