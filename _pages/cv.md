@@ -22,6 +22,7 @@ Research experience
   
 Competitive funding and awards
 ======
+2021 &emsp; College of Agricultural and Life Sciences Graduate Scholarship  
 2021 &emsp; Wetland Biological Laboratory Biogeochemistry Graduate Fellowship  
 2021 &emsp; Florida Sea Grant Program Development Award\*  
 2020 &emsp; North Florida Marine Science Symposium Best Student Poster (2nd Place)  
@@ -30,10 +31,9 @@ Competitive funding and awards
 
 Publications
 ======
-
-Walker, J.B., **Bijak, A.L.** & L.K. Blum. (*in review*). Genetic diversity and clonal structure of *Spartina alterniflora* in a Virginia marsh.  
-
 Crane, J.L., **Bijak, A.L.**, Maier, M.A., & M.A. Nord. (2021). Development of ambient background threshold values for sediment quality parameters in U.S. lakes on a regional and statewide basis. *Science of the Total Environment* 793: 148630. [https://doi.org/10.1016/j.scitotenv.2021.148630](https://doi.org/10.1016/j.scitotenv.2021.148630)  
+
+Walker, J.B., **Bijak, A.L.** & L.K. Blum. (2021). Genetic diversity and clonal structure of *Spartina alterniflora* in a Virginia marsh. *Northeastern Naturalist* 28(3): 357-370. [https://doi.org/10.1656/045.028.0309](https://doi.org/10.1656/045.028.0309)  
 
 **Bijak, A.L.**, van Dijk, K., & M. Waycott. (2018). Population structure and gene flow of the tropical seagrass, *Syringodium filiforme*, in the Florida Keys and subtropical Atlantic region. *PLoS ONE* 13(9): e0203644. [https://doi.org/10.1371/journal.pone.0203644](https://doi.org/10.1371/journal.pone.0203644)  
 
