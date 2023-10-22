@@ -1,6 +1,6 @@
 ---
-title: "Research"
-permalink: /research/
+title: "About"
+permalink: /about/
 author_profile: true
 ---
 
