@@ -15,7 +15,7 @@ Education
 
 Research experience
 ======
-2019-present &nbsp; **Graduate Research Assistant**, Soil and Water Sci. Dept., Univ. of Fl  
+2019-present &nbsp; **Graduate Research Assistant**, Soil, Water, and Ecosystem Sci. Dept., Univ. of Fl  
 2016-2019 &emsp; &nbsp; **ORISE Researcher**, US Environmental Protection Agency  
 2013-2015 &emsp; &nbsp; **Graduate Research/Teaching Assistant**, Dept. of Envi. Sci., Univ. of Va  
 2012-2013 &emsp; &nbsp; **Laboratory Assistant**, Dept. of Envi. Sci., Univ. of Va    
@@ -49,7 +49,7 @@ Walker, J.B., **Bijak, A.L.** & L.K. Blum. (2021). Genetic diversity and clonal 
 **Bijak, A.L.**, van Dijk, K., & M. Waycott. (2014). Development of microsatellite markers for a tropical seagrass, *Syringodium filiforme* (Cymodoceaceae). *Applications in Plant Sciences* 2(10): 1400082. [https://doi.org/10.3732/apps.1400082](https://doi.org/10.3732/apps.1400082)  
 
 **Extension Publications**  
-**Bijak, A.L.**, Reynolds, L.K., & A.R. Smyth. Linking waterbody acidification and plant metabolism: A lesson plan for middle school students. Accepted in the UF/IFAS Extension EDIS Journal.  
+**Bijak, A.L.**, Reynolds, L.K., & A.R. Smyth. Linking waterbody acidification and plant metabolism: A lesson plan for middle school students. *Accepted in the UF/IFAS Extension EDIS Journal*.  
   
 Invited Presentations
 ======
@@ -61,19 +61,23 @@ Select Contributed Presentations
 ======
 2023 “Seagrass species richness and identity influence annual seagrass cover, but synchrony drives
 meadow stability.” Poster. 51st Benthic Ecology Meeting.  
+
 2022 “Seagrass species identity affects greenhouse gas emissions.” Oral Presentation. Joint Aquatic
 Sciences Meeting.  
+
 2022 “Seagrass species identity and historical cover influence sediment organic carbon stocks.” Poster.
 Univ. of Fl Water Institute Symposium.  
+
 2021 “Biodiversity impacts on seagrass blue carbon: Species assemblage and historical cover influence
 sediment organic carbon stocks.” Univ. of Fl Coastal Ecosystems Dynamics seminar.  
+
 2020 “Genetic diversity of *Halodule wrightii* along the Nature Coast.” Poster. North Florida Marine
 Science Symposium.  
   
 Teaching
 ======
 **Teaching Assistant**, Univ. of Fl  
-2023 &emsp;&emsp;&emsp; &nbsp;&nbsp; Introduction to Ecosystem Restoration (EVR 3323)
+2023 &emsp;&emsp;&emsp; &nbsp;&nbsp; Introduction to Ecosystem Restoration (EVR 3323)  
 2021 &emsp;&emsp;&emsp; &nbsp;&nbsp; Wetlands (SWS 4244)  
 
 **Teaching Assistant**, Univ. of Va  
@@ -87,5 +91,5 @@ Teaching
 Service, outreach and leadership
 ======
 2021-present &emsp; Presenter, Scientist in Every Florida School  
-2021 &emsp; CERF Student Representative, Joint Aquatic Sciences Meeting Student Activities Committee  
+2021 &emsp; &emsp; CERF Student Representative, Joint Aquatic Sciences Meeting Student Activities Committee  
 2019-present &emsp; Outreach Coordinator, Natural Resources Diversity Initiative  
