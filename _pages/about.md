@@ -10,6 +10,6 @@ I am broadly interested in how biodiversity promotes ecosystem functioning in na
 
 - the role of species diversity in meadow persistence and recovery following disturbance  
 - how variability in seagrass cover over time affects carbon storage  
-- the effects of seagrass traits on greenhouse gas fluxes  
+- the effects of seagrass species assemblage and traits on greenhouse gas fluxes  
 
 My research questions are motivated by both ecological theory and current challenges in ecosystem management and environmental policy.
