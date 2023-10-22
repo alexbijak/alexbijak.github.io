@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Reynolds Marine and Coastal Ecology lab and the Smyth Biogeochemistry lab at the University of Florida. 
+I am a PhD candidate in the Reynolds Marine and Coastal Ecology lab and the Smyth Biogeochemistry lab at the University of Florida.   
 1  
 ![](images/Bijak-field-photo-2.jpg)
 2  
