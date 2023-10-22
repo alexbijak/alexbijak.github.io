@@ -8,10 +8,8 @@ redirect_from:
 ---
 
 I am a PhD candidate in the Reynolds Marine and Coastal Ecology lab and the Smyth Biogeochemistry lab at the University of Florida. 
-1
+
 ![](https://github.com/alexbijak/alexbijak.github.io/blob/master/Bijak-field-photo-2.jpg?raw=trueimages)
-2
-<img src="https://github.com/alexbijak/alexbijak.github.io/blob/master/Bijak-field-photo-2.jpg"  width="50%" height="50%">
 
 My research questions are motivated by both ecological theory and current challenges in ecosystem management and environmental policy. I am broadly interested in how biodiversity promotes ecosystem functioning in natural systems. For my dissertation, I am studying how seagrass species diversity affects meadow stability (or constancy in seagrass cover over time) and how both diversity and stability affect carbon cycling in seagrass meadows. I leverage long-term datasets, field surveys, and laboratory experiments to understand:
 
