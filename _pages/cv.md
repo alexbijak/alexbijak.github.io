@@ -36,20 +36,20 @@ Competitive funding and awards
 Peer-reviewed publications
 ======
 **Journal Articles**  
-**Bijak, A.L.**, Reynolds, L.K., Martens-Habbena, W., & A.R. Smyth. Seagrass traits affect carbon dioxide and methane fluxes in a subtropical meadow. *In Review*.
+**Bijak, A.L.**, Reynolds, L.K., Martens-Habbena, W., & A.R. Smyth. Seagrass traits affect carbon dioxide and methane fluxes in a subtropical meadow. *In Review*.  
 
-5. **Bijak, A.L.**, Reynolds, L.K., & A.R. Smyth. (2023). Seagrass meadow stability and composition influence carbon storage. *Landscape Ecology* [https://doi.org/10.1007/s10980-023-01700-3](https://doi.org/10.1007/s10980-023-01700-3)
+**Bijak, A.L.**, Reynolds, L.K., & A.R. Smyth. (2023). Seagrass meadow stability and composition influence carbon storage. *Landscape Ecology* [https://doi.org/10.1007/s10980-023-01700-3](https://doi.org/10.1007/s10980-023-01700-3)
 
-4. Crane, J.L., **Bijak, A.L.**, Maier, M.A., & M.A. Nord. (2021). Development of ambient background threshold values for sediment quality parameters in U.S. lakes on a regional and statewide basis. *Science of the Total Environment* 793: 148630. [https://doi.org/10.1016/j.scitotenv.2021.148630](https://doi.org/10.1016/j.scitotenv.2021.148630)  
+Crane, J.L., **Bijak, A.L.**, Maier, M.A., & M.A. Nord. (2021). Development of ambient background threshold values for sediment quality parameters in U.S. lakes on a regional and statewide basis. *Science of the Total Environment* 793: 148630. [https://doi.org/10.1016/j.scitotenv.2021.148630](https://doi.org/10.1016/j.scitotenv.2021.148630)  
 
-3. Walker, J.B., **Bijak, A.L.** & L.K. Blum. (2021). Genetic diversity and clonal structure of *Spartina alterniflora* in a Virginia marsh. *Northeastern Naturalist* 28(3): 357-370. [https://doi.org/10.1656/045.028.0309](https://doi.org/10.1656/045.028.0309)  
+Walker, J.B., **Bijak, A.L.** & L.K. Blum. (2021). Genetic diversity and clonal structure of *Spartina alterniflora* in a Virginia marsh. *Northeastern Naturalist* 28(3): 357-370. [https://doi.org/10.1656/045.028.0309](https://doi.org/10.1656/045.028.0309)  
 
-2. **Bijak, A.L.**, van Dijk, K., & M. Waycott. (2018). Population structure and gene flow of the tropical seagrass, *Syringodium filiforme*, in the Florida Keys and subtropical Atlantic region. *PLoS ONE* 13(9): e0203644. [https://doi.org/10.1371/journal.pone.0203644](https://doi.org/10.1371/journal.pone.0203644)  
+**Bijak, A.L.**, van Dijk, K., & M. Waycott. (2018). Population structure and gene flow of the tropical seagrass, *Syringodium filiforme*, in the Florida Keys and subtropical Atlantic region. *PLoS ONE* 13(9): e0203644. [https://doi.org/10.1371/journal.pone.0203644](https://doi.org/10.1371/journal.pone.0203644)  
 
-1. **Bijak, A.L.**, van Dijk, K., & M. Waycott. (2014). Development of microsatellite markers for a tropical seagrass, *Syringodium filiforme* (Cymodoceaceae). *Applications in Plant Sciences* 2(10): 1400082. [https://doi.org/10.3732/apps.1400082](https://doi.org/10.3732/apps.1400082)  
+**Bijak, A.L.**, van Dijk, K., & M. Waycott. (2014). Development of microsatellite markers for a tropical seagrass, *Syringodium filiforme* (Cymodoceaceae). *Applications in Plant Sciences* 2(10): 1400082. [https://doi.org/10.3732/apps.1400082](https://doi.org/10.3732/apps.1400082)  
 
-**Extension Publications**
-**Bijak, A.L.**, Reynolds, L.K., & A.R. Smyth. Linking waterbody acidification and plant metabolism: A lesson plan for middle school students. Accepted in the UF/IFAS Extension EDIS Journal.
+**Extension Publications**  
+**Bijak, A.L.**, Reynolds, L.K., & A.R. Smyth. Linking waterbody acidification and plant metabolism: A lesson plan for middle school students. Accepted in the UF/IFAS Extension EDIS Journal.  
   
 Invited Presentations
 ======
