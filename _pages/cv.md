@@ -96,5 +96,5 @@ Service, outreach and leadership
 ======
 2019-2024 &emsp; &emsp; Outreach Coordinator, Natural Resources Diversity Initiative  
 2021-2022 &emsp; &emsp; CERF Student Representative, Joint Aquatic Sciences Meeting Student Activities Committee  
-2021 &emsp; &emsp; &emsp; &emsp; &emsp; Presenter, Scientist in Every Florida School  
+2021 &emsp; &emsp; &emsp; &emsp;&emsp; Presenter, Scientist in Every Florida School  
   
