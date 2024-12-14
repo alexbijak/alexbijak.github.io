@@ -9,13 +9,13 @@ author_profile: true
 
 Education
 ======
-2024 &emsp; &nbsp; **PhD, Soil, Water, and Ecosystem Sciences**, University of Florida  
+2024 &emsp;&nbsp; **PhD, Soil, Water, and Ecosystem Sciences**, University of Florida  
 2016 &emsp; &nbsp; **MS, Environmental Sciences**, Unviersity of Virginia  
 2012 &emsp; &nbsp; **BA, Biology**, University of Virginia  
 
 Research experience
 ======
-2024- &emsp;&emsp;&emsp; &nbsp; **Postdoctoral Fellow**, Virginia Institute of Marine Science  
+2024- &emsp;&emsp; &emsp; &nbsp; **Postdoctoral Fellow**, Virginia Institute of Marine Science  
 2019-2024 &emsp; &nbsp; **Graduate Research Assistant**, Soil, Water, and Ecosystem Sci. Dept., Univ. of Fl  
 2016-2019 &emsp; &nbsp; **ORISE Researcher**, US Environmental Protection Agency  
 2013-2015 &emsp; &nbsp; **Graduate Research/Teaching Assistant**, Dept. of Envi. Sci., Univ. of Va  
