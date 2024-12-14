@@ -9,7 +9,7 @@ author_profile: true
 
 Education
 ======
-2024 &emsp; **PhD, Soil, Water, and Ecosystem Sciences**, University of Florida  
+2024 &emsp; &nbsp; &nbsp; **PhD, Soil, Water, and Ecosystem Sciences**, University of Florida  
 2016 &emsp; &nbsp; **MS, Environmental Sciences**, Unviersity of Virginia  
 2012 &emsp; &nbsp; **BA, Biology**, University of Virginia  
 
