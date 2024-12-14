@@ -16,7 +16,7 @@ Education
 Research experience
 ======
 2024- &emsp;&emsp; &emsp; &nbsp; **Postdoctoral Fellow**, Virginia Institute of Marine Science  
-2019-2024 &emsp; &nbsp; **Graduate Research Assistant**, Soil, Water, and Ecosystem Sci. Dept., Univ. of Fl  
+2019-2024 &emsp;&nbsp; **Graduate Research Assistant**, Soil, Water, and Ecosystem Sci. Dept., Univ. of Fl  
 2016-2019 &emsp; &nbsp; **ORISE Researcher**, US Environmental Protection Agency  
 2013-2015 &emsp; &nbsp; **Graduate Research/Teaching Assistant**, Dept. of Envi. Sci., Univ. of Va  
 2012-2013 &emsp; &nbsp; **Laboratory Assistant**, Dept. of Envi. Sci., Univ. of Va    
