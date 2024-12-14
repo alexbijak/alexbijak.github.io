@@ -31,7 +31,7 @@ Competitive funding and awards
 
 Peer-reviewed publications
 ======
-**Journal Articles**  
+**Journal articles**  
 **Bijak, A.L.**, Smyth, A.R., Barry, S.C., Martin, C.W., Spengler, C. & Reynolds, L.K. *Submitted*. Seagrass species identity drives leaf litter decomposition across a naturally occurring phosphorus gradient.  
 
 7\. Nord M.A., Maier, M.A., Bijak, A.L., Crane, J.L., & Pollard, A.I. (2024). Assessment of recent lake sediment condition in the conterminous U.S. *Science of the Total Environment* 956: 177315. [https://doi.org/10.1016/j.scitotenv.2024.177315](https://doi.org/10.1016/j.scitotenv.2024.177315)  
@@ -48,19 +48,19 @@ Peer-reviewed publications
 
 1\. **Bijak, A.L.**, van Dijk, K., & M. Waycott. (2014). Development of microsatellite markers for a tropical seagrass, *Syringodium filiforme* (Cymodoceaceae). *Applications in Plant Sciences* 2(10): 1400082. [https://doi.org/10.3732/apps.1400082](https://doi.org/10.3732/apps.1400082)  
 
-**Extension Publications**  
+**Extension publications**  
 **Bijak, A.L.**, Barry, S.C., Reynolds, L.K., & A.R. Smyth. What is Blue Carbon? *Accepted in the UF/IFAS Extension EDIS Journal.*  
 
 **Bijak, A.L.**, Reynolds, L.K., & A.R. Smyth. (2024). Linking waterbody acidification and plant metabolism: A lesson plan for middle school students. *EDIS*: SL512/SS725. [https://doi.org/10.32473/edis-SS725-2024](https://doi.org/10.32473/edis-SS725-2024)  
   
-Invited Presentations
+Invited presentations
 ======
 2024 &emsp; Florida Sea Grant Symposium, Jan. 17. Gainesville, Florida.  
 2023 &emsp; Nature Coast Currents Webinar Series, Feb. 15. Virtual.  
 2022 &emsp; Florida Sea Grant Work Action Group meeting, Jul. 13. Virtual.  
 2021 &emsp; Coastal and Estuarine Research Federation 26th Biennial Conference. Virtual.  
 
-Select Conference Presentations
+Select conference presentations
 ======
 2024 “Seagrass species impacts on decomposition and sediment carbon stocks” Oral Presentation.
 2024 World Seagrass Conference & 15th International Seagrass Biology Workshop.  
