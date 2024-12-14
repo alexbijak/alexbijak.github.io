@@ -52,6 +52,7 @@ Peer-reviewed publications
 
 **Extension Publications**  
 **Bijak, A.L.**, Barry, S.C., Reynolds, L.K., & A.R. Smyth. What is Blue Carbon? *Accepted in the UF/IFAS Extension EDIS Journal.*  
+
 **Bijak, A.L.**, Reynolds, L.K., & A.R. Smyth. (2024). Linking waterbody acidification and plant metabolism: A lesson plan for middle school students. *EDIS*: SL512/SS725. [https://doi.org/10.32473/edis-SS725-2024](https://doi.org/10.32473/edis-SS725-2024)  
   
 Invited Presentations
