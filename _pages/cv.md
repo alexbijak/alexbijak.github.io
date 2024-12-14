@@ -32,7 +32,7 @@ Competitive funding and awards
 Peer-reviewed publications
 ======
 **Journal Articles**  
-**Bijak, A.L.**, Smyth, A.R., Barry, S.C., Martin, C.W., Spengler, C. & Reynolds, L.K. Submitted. Seagrass species identity drives leaf litter decomposition across a naturally occurring phosphorus gradient.  
+**Bijak, A.L.**, Smyth, A.R., Barry, S.C., Martin, C.W., Spengler, C. & Reynolds, L.K. *Submitted*. Seagrass species identity drives leaf litter decomposition across a naturally occurring phosphorus gradient.  
 
 7\. Nord M.A., Maier, M.A., Bijak, A.L., Crane, J.L., & Pollard, A.I. (2024). Assessment of recent lake sediment condition in the conterminous U.S. *Science of the Total Environment* 956: 177315. [https://doi.org/10.1016/j.scitotenv.2024.177315](https://doi.org/10.1016/j.scitotenv.2024.177315)  
 
