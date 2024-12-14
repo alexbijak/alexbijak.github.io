@@ -28,8 +28,6 @@ Competitive funding and awards
 2023 &emsp; Florida Sea Grant Coastal and Ocean Graduate Fellowship  
 2022 &emsp; The Wetland Foundation Conference Travel Grant    
 2021 &emsp; Wetland Biological Laboratory Biogeochemistry Graduate Fellowship  
-2021 &emsp; Florida Sea Grant Program Development Award\*  
-&emsp; &emsp; &emsp; \**primary author on grant awarded to Dr. Laura K. Reynolds*    
 
 Peer-reviewed publications
 ======
